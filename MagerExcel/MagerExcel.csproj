@@ -16,6 +16,8 @@
     <Description>Draw normal or pivot table using list of object in excel</Description>
     <PackageTags>mager; magerexcel; excel; epplus; csharp; library</PackageTags>
     <RepositoryUrl>https://github.com/ubaydimse/MagerExcel</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
