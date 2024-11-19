@@ -9,7 +9,7 @@ Install the NuGet package:
 ```bash
 dotnet add package MagerExcel
 
-Here's how to use MyLibrary (just make an ajax request to this endpoint):
+Here's how to use MagerExcel (just make an ajax request to these endpoints):
 
 using OfficeOpenXml;
 using OfficeOpenXml.Style;
