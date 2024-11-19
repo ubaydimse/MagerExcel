@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagerExcel", "MagerExcel\MagerExcel.csproj", "{F441B2C4-589A-41BA-80C4-21DF94BB716C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F441B2C4-589A-41BA-80C4-21DF94BB716C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F441B2C4-589A-41BA-80C4-21DF94BB716C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F441B2C4-589A-41BA-80C4-21DF94BB716C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F441B2C4-589A-41BA-80C4-21DF94BB716C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1974A044-5983-4E70-87CA-5BED320FE24C}
+	EndGlobalSection
+EndGlobal
